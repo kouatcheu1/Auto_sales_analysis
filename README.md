@@ -75,7 +75,7 @@ Data visualization was created using power bi and Tableau using different charts
 1. Classic Cars account for 39.37% of total sales, making it the leading contributor to revenue.
 2. Sales range widely across product lines, from 226K (Trains) to 3.84M (Classic Cars).
 
-_You can interact with the Power BI dashboard_ [here](https://github.com/kouatcheu1/Auto_sales_analysis/blob/main/PowerBI_Dashboard.pbix)
+_You can interact with the Power BI dashboard_ [here](https://app.powerbi.com/view?r=eyJrIjoiMWQ2ZmU5OTYtOTVkNi00NjRiLWJhOWUtMTE1YjNlOTZiNWNkIiwidCI6ImJmZTU4MzM2LWNhYjktNGRlNS1iYTc1LThjZmY3ZTIyZWMyYyIsImMiOjN9)
 
 # Tableau Dashboard
 ![](Tableau_Dashboard.png)
